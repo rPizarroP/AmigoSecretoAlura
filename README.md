@@ -2,4 +2,8 @@
 
 Challenge Amigo Secreto - Programa Oracle One - Alura
 
-Proyecto en construcción
+Descripción de su proyecto;
+funcionalidades;
+Cómo pueden usarlo los usuarios;
+Donde los usuarios pueden encontrar ayuda sobre su proyecto;
+Autores del proyecto.
