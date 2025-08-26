@@ -2,6 +2,8 @@
 
 Challenge Amigo Secreto - Programa Oracle One - Alura
 
+:construction: Proyecto en construcción :construction:
+
 Título e imagen de portada;
 Insignias;
 Índice;
